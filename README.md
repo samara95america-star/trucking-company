@@ -105,3 +105,4 @@ npm run lint
 npm run build
 ```
 The compiled, mini-chunked, compressed static assets will reside inside the **`dist/`** directory.
+# trucking-company
